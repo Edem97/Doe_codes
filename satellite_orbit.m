@@ -1,4 +1,4 @@
-  % Script file : satellite_orbit.m
+% Script file : satellite_orbit.m
 %
 % Purpose of the code
 % This program plots the orbit of a satellite given the eccentricity of the
