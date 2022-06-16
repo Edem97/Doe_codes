@@ -1,2 +1,3 @@
 # Doe_codes
-Personal Projects.
+Personal Programming Projects.
+Edits and pull requests are duly accepted
