@@ -27,7 +27,7 @@ function [StreamFunction, EquiFunction, c_p, vel] = Plot_Airfoil_Flow(c, alpha, 
     % calculate the stream function. It's very computationally expensive,
     % so if you're not explicitly going to use it then you should leave it
     % out.
-    % Author: Grace Edwards
+    % Original Author: Grace Edwards
     % Collaborators: Keith Poletti
     % Date: 2/27/2020
     % Editor: Edem Doe Honu
