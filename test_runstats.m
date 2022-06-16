@@ -1,4 +1,4 @@
-   %Script file : test_runstats.m
+%Script file : test_runstats.m
 
 %Initially reset running time
 [ave std] = runstats('reset');
