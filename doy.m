@@ -1,5 +1,5 @@
 %% CODE TO CALCULATE THE DAY OF THE YEAR FOR A GIVEN DATE
-%script file: doy.m
+% script file: doy.m
 % Purpose of the code
 % This program calculates the day of the year corresponding to a specified
 % date applying the switch and if branching and for loop
