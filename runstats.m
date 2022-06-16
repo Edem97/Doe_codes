@@ -1,5 +1,5 @@
 function [ave,std] = runstats(x)
-%RUNSTATS Generate running averages and std deviation on the fly
+% RUNSTATS Generate running averages and std deviation on the fly
 % This program generates a running average and standard deviation of a data
 % set. The values x must be passed to this function one at a time. A call
 % to RUNSTARTS with the argument 'reset' will reset the running sums 
