@@ -1,3 +1,3 @@
-# Doe_codes
-Personal Programming Projects.
+# Matlab_projects
+Personal Matlab Programming Projects.
 Edits and pull requests are duly accepted
